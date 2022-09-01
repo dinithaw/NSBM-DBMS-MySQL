@@ -1,3 +1,3 @@
 # NSBM DATABASE MANAGEMENT SYSTEMS (CS105.3)
-Database Management Systems - MySQL Project files given by NSBM Green University 🇱🇰
+Database Management Systems - MySQL Project files given by NSBM Green University 🇱🇰 \n
 **You Can Go Through The Directories To Find The Assignment You Looking For** :metal:
